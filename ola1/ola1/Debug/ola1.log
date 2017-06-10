@@ -1,0 +1,9 @@
+﻿  ola1.cpp
+c:\users\bryce\desktop\3110labs\ola1\ola1\ola1.cpp(115): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bryce\desktop\3110labs\ola1\ola1\ola1.cpp(118): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bryce\desktop\3110labs\ola1\ola1\ola1.cpp(121): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bryce\desktop\3110labs\ola1\ola1\ola1.cpp(124): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bryce\desktop\3110labs\ola1\ola1\ola1.cpp(127): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bryce\desktop\3110labs\ola1\ola1\ola1.cpp(130): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ola1.vcxproj -> C:\Users\Bryce\Desktop\3110labs\ola1\Debug\ola1.exe
+  ola1.vcxproj -> C:\Users\Bryce\Desktop\3110labs\ola1\Debug\ola1.pdb (Partial PDB)
